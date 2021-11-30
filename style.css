@@ -24,10 +24,14 @@ padding: 0 20px 0 20px;
 	display: block;
 }
 
+#header {
+margin-bottom: 10px;
+
+}
 
 /* Navigációs sáv */
 #nav {
-
+	margin-bottom: 10px;
 }
 
 #nav ul {
@@ -54,12 +58,12 @@ padding: 0 20px 0 20px;
 
 /* Tartalom */
 #content {
-
+	margin-bottom: 10px;
 }
 
 /*Lábléc  */
 #footer {
-
+	margin-bottom: 10px;
 }
 
 /* További stílusok */
