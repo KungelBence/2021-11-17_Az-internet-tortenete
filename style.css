@@ -32,6 +32,7 @@ margin-bottom: 10px;
 /* Navigációs sáv */
 #nav {
 	margin-bottom: 10px;
+	background-color: #CDDBEB;
 }
 
 #nav ul {
@@ -53,7 +54,7 @@ margin-bottom: 10px;
 }
 
 #nav a:hover {
-
+background-color: #B1B7DF;
 }
 
 /* Tartalom */
