@@ -76,11 +76,14 @@ background-color: #B1B7DF;
 /* További stílusok */
 .center {
 	text-align: center;
+	margin: auto;
+	
 }
 
 .jobbra {
 	float: right;
 	margin-left: 10px;
+
 }
 
 .active {
